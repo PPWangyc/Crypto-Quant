@@ -1,7 +1,7 @@
-#Install
+# Install
 pip install pandas
 pip install numpy
 pip install scikit-learn
 
-#Run Program
+# Run Program
 python main.py
